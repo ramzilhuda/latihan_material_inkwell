@@ -1,6 +1,10 @@
 # latihan_material_inkwell
 
-A new Flutter project.
+Latihan menggunakan material dan inkwell berfungsi untuk membuat sebuah tombol dengan kreasi sendiri
+
+tampilan : 
+![Screenshot_2020-08-06-07-16-42-70_2f4c5c5bf7f3d35154ef67969953767b 1](https://user-images.githubusercontent.com/60292040/89476477-f99b2180-d7b4-11ea-9122-9c217afeaa28.png)
+
 
 ## Getting Started
 
